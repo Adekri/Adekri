@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<a href="https://www.codewars.com/users/Adekri/badges/large" > </a>
+!(https://www.codewars.com/users/Adekri/badges/large.svg)
 
