@@ -10,8 +10,7 @@
 
 ![CodeWars](https://www.codewars.com/users/Adekri/badges/small)
 
-/*
---![](https://www.hackthebox.eu/badge/image/1730429)
-*/
+
+
 </div> 
 
