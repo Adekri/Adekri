@@ -12,9 +12,9 @@
 
 ![tryhackme stats](https://raw.githubusercontent.com/Adekri/Adekri/master/assets/thm_propic.png)
 
-![tryhack](https://tryhackme.com/badge/2496282)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Adekri.png" alt="TryHackMe">
 
 </div> 
 
-<script src="https://tryhackme.com/badge/2496282"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Adekri.png" alt="TryHackMe">
