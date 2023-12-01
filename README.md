@@ -10,7 +10,7 @@
 
 ![CodeWars](https://www.codewars.com/users/Adekri/badges/small)
 
-![tryhackme stats](https://raw.githubusercontent.com/Adekri/Adekri/master/assets/thm_propic.png)
+[![adekri's tryhackme stats](https://raw.githubusercontent.com/adekri/adekri/master/assets/thm_propic.png)][tryhackme]
 
 </div> 
 
