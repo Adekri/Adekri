@@ -10,7 +10,7 @@
 
 ![CodeWars](https://www.codewars.com/users/Adekri/badges/small)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Adekri.png?4" alt="TryHackMe">
+
 
 </div> 
 
